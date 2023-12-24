@@ -1,0 +1,6 @@
+linters:
+  presets:
+    - bugs
+    - complexity
+    - metalinter
+    - performance
